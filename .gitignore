@@ -1,0 +1,12 @@
+# Code-only allowlist. Data, outputs, figures, documents and archives stay ignored.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/requirements.txt
+!/docs/
+!/docs/*.md
+!/analysis/
+!/analysis/*.py
+!/analysis/models/
+!/analysis/models/*.py
